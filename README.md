@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there :wave:
 
-<!--
-**dani-gouken/dani-gouken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Nghokeng Daniel. I'm a Mobile and Web software engineer 
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 I'm currently working at [Globexcam Group](https://www.globexcam.com/)
+- 🏫 I'm a PHP and flutter enthusiast
+- 💬 Ask me about anything [here](https://github.com/dani-gouken/dani-gouken/issues)
+- 🔭 Currently working on [PHPAtom](https://github.com/phpatom), check it out !
+
+## Get in touch
+
+- Email: nghokend@gmail.com
+- Twitter: https://twitter.com/danigouken
+- Personnal website: https://danig.run/
