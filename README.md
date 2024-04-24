@@ -11,4 +11,3 @@ My name is Nghokeng Daniel. I'm a Mobile and Web software engineer
 ## Get in touch
 
 - Email: nghokend@gmail.com
-- Twitter: https://twitter.com/danigouken
