@@ -1,6 +1,6 @@
 # Hi there :wave:
 
-My name is Nghokeng Daniel. I'm a Mobile and Web software engineer 
+My name is Nghokeng Daniel. I'm a software engineer from Cameroon 
 
 ## About me
 
